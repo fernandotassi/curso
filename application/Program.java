@@ -43,7 +43,7 @@ public class Program
 	         product.addProducts(quantity);
 	         System.out.println(product);
 	
-	}
+	     }    //fimif
 	     
 	     else 
 	    	 if(esc == 'r') 
@@ -53,26 +53,11 @@ public class Program
 	    		 product.removeProducts(quantity);
 	    		 System.out.println(product);
 	    		 
-	    	 }
+	    	 }   //fimelseif
 	       
-	 
-	     
-	   
-	
-	 
-	   
-	   
-	   
-	   
 	   }   //fim while
 	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   ftg.close();
+	  ftg.close();
       
 	}   //fim main
 	
